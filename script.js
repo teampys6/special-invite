@@ -1,7 +1,7 @@
 function display_alert_yes() {
   alert("Você aceitou a transar comigo, muita fé amor!");
 
-  window.location.href = "https://www.youtube.com/watch?v=izGwDsrQ1eQ";
+  window.location.href = "https://www.youtube.com/watch?v=Y8Hq6XMw0MQ";
 }
 
 function getRandomPosition(element) {
